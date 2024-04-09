@@ -45,7 +45,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://bokeptiktok.pages.dev"
             },
-            "foundingDate":"2024-01-27"
+            "foundingDate":"2024-04-07"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
@@ -56,7 +56,7 @@ export default function RootLayout({
         "image": "https://bokeptiktok.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokeptiktok.pages.dev/"}
+            "target":"https://bokeptiktok.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
